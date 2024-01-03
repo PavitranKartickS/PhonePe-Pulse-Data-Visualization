@@ -37,3 +37,7 @@ The tool provides a range of interactive data visualization options, often power
 Users design and generate visualizations based on their selected data and chosen visualization options. They can customize parameters, select data variables, and apply filters to tailor the visualizations to their specific questions or objectives.
 ## 6.Gaining Insights:
 As users interact with the visualizations, they gain insights into PhonePe's rich dataset. These insights may include trends, patterns, anomalies, and valuable information related to transactions, user behavior, and other aspects of PhonePe's services. Users can use these insights to inform data-driven decision-making processes, such as optimizing services, identifying opportunities, or addressing challenges.
+
+# What is PhonePe Pulse?
+  The [PhonePe Pulse website](https://www.phonepe.com/pulse/explore/transaction/2022/4/) showcases more than 2000+ Crore transactions by consumers on an interactive map of India. With over 45% market share, PhonePe's data is representative of the country's digital payment habits.
+The insights on the website and in the report have been drawn from two key sources - the entirety of PhonePe's transaction data combined with merchant and customer interviews. The report is available as a free download on the [PhonePe Pulse website](https://www.phonepe.com/pulse/explore/transaction/2022/4/) and [GitHub](https://github.com/PhonePe/pulse).
