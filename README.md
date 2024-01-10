@@ -32,7 +32,7 @@ The tool connects to the PhonePe database or data source to retrieve the relevan
 ## 3.Data Exploration:
 Users interact with the tool's user-friendly interface to explore the available data. They can choose specific datasets, tables, or data sources to work with, depending on their analytical needs.
 ## 4.Visualization Options:
-The tool provides a range of interactive data visualization options, often powered by libraries like Plotly and Streamlit. Users can select the type of visualization they want to create, such as charts, graphs, maps, or dashboards.
+The tool provides a range of interactive data visualization options, often powered by libraries like Plotly and Streamlit. Users can select the type of visualization they want to obtain, such as charts, graphs, maps, or dashboards.
 ## 5.Creating Visualizations:
 Users design and generate visualizations based on their selected data and chosen visualization options. They can customize parameters, select data variables, and apply filters to tailor the visualizations to their specific questions or objectives.
 ## 6.Gaining Insights:
